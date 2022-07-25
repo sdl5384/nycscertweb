@@ -8,5 +8,7 @@ Hello, my name is Sam Lojacono and welcome to my *nycscertweb* page.  In this we
 |Programming in a higher level language  | Rationals.java   | Used OOP to simulate a rudimentary class of rational numbers in Java language.|
 |Programming in a higher level language  | CGOL.java        | Java program to simulate and run Conway's automaton Game of life.|
 |Data Structures                         | ArrayList.java   | Created our own library of ArrayLists, a dynamic way of add, storing, and deleting data in Java.|
+|Data Structures                         | LinkedList.java  | Create a library that generates a given number of Nodes|
+|Data Structures                         | SortSearch.java  | Create a library of searching and sorting algorithms|
 
 **Other projects I have worked on so far.**
