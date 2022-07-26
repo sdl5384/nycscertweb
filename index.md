@@ -16,4 +16,6 @@ I soon began to develop as a coding hobbyist. I first started getting involved w
 |Data Structures                         | SortSearch.java  | Create a library of searching and sorting algorithms|
 |Data Structures                         | SortSearchReferenceDriver.java| Program that test and calculates how much time each sorting algorithm takes to finish.|
 
+
 **Other projects I have worked on so far.**
+I work and code in other languages as well, such as Microsoft VBA and Python.  As of right now I am developing and evolving a script in Python that collects and records data from radio station websites.  This project was developed to not only analyze how songs are frequently played on the air, but to attempt to identify at musical preferences as well.
