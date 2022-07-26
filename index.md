@@ -1,5 +1,9 @@
 Hello, my name is Sam Lojacono and welcome to my *nycscertweb* page.  In this website I have posted a series of projects I have completed not only during my time as a graduate student through Hunter's College Computer Science Ed program, but my own ongoing projects.
 
+I first got into coding when I was still an undegrad at college.  I had to take a Java programming course as part of my degree.  I enjoyed it as soon as we started.
+
+I soon began to develop as a coding hobbyist. I first started getting involved with Java and independely learning the different facets of Java I did not learn earlier in class.
+
 **Computer Science Education Coursework**
 
 |Course Name                             | Filename         | Description|
