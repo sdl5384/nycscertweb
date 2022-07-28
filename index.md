@@ -15,6 +15,7 @@ I soon began to develop as a coding hobbyist. I first started getting involved w
 |Data Structures                         | LinkedList.java  | Create a library that generates a given number of Nodes|
 |Data Structures                         | SortSearch.java  | Create a library of searching and sorting algorithms|
 |Data Structures                         | SortSearchReferenceDriver.java| Program that test and calculates how much time each sorting algorithm takes to finish.|
+|Data Strucutres                         | TreeDriver.java and ExpressionTree.java| Program that traverses an expression tree and performs calculations based on the nature of the tree itself.
 
 ---
 **Other projects I have worked on so far.**
