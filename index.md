@@ -17,6 +17,12 @@ I soon began to develop as a coding hobbyist. I first started getting involved w
 |Data Structures                         | SortSearchReferenceDriver.java| Program that test and calculates how much time each sorting algorithm takes to finish.|
 |Data Strucutres                         | TreeDriver.java and ExpressionTree.java| Program that traverses an expression tree and performs calculations based on the nature of the tree itself.
 
+**Computer Science Methods Coursework Assignments**
+|Course Name                            | Description of Activity          | Associated Filename (if any)|
+|---------------------------------------|:-----------------:|------------|
+|Driver and Navigator Activity | This activity was to demonstrate how teachers can use student pairs in order to work together to either direct what they need to do while coding| TBD |
+
+
 ---
 **Other projects I have worked on so far.**
 I work and code in other languages as well, such as Microsoft VBA and Python.  As of right now I am developing and evolving a script in Python that collects and records data from radio station websites.  This project was developed to not only analyze how songs are frequently played on the air, but to attempt to identify at musical preferences as well.
